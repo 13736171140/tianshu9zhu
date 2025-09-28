@@ -8,7 +8,7 @@ let 嘲讽语 = "哎呀你找到了我，但是我就是不给你看，气不气
 
 let 启用反代功能 = true; //选择是否启用反代功能，false，true，现在你可以自由的选择是否启用反代功能了
 let 反代IP = [
-  'hk.cf.zhetengsha.eu.org',
+  'ProxyIP.SG.CMLiussss.net',
 ]; //反代IP或域名，支持多反代，会随机挑选一个发往副worker，反代IP端口一般情况下不用填写，如果你非要用非标反代的话，可以填'ts.hpc.tw:443'这样
 
 let 我的节点名字 = '天书9负载均衡'; //自己的节点名字
